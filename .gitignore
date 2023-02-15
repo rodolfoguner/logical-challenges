@@ -859,6 +859,9 @@ poetry.toml
 .history
 .ionide
 
+### Values input file
+stdin
+
 ### VisualStudio ###
 
 # User-specific files
